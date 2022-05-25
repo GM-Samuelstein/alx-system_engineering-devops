@@ -1,1 +1,1 @@
-This directory will contain some executable scripts that will perform different functions.
+This directory contains some executable scripts that will perform different functions.
