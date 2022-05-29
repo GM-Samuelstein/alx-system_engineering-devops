@@ -9,7 +9,7 @@ This directory contains some executable scripts that perform different basic she
 - ***5-listfilesdigitonly:*** "Displays current directory's contents, including hidden files (files starting with ```.```), in a long format, with user and group IDs displayed numerically".
 - ***6-firstdirectory:*** "Creates a directory named ```my_first_directory``` in the ```/tmp/``` directory".
 - ***7-movethatfile:*** "Moves the file ```betty``` from ```/tmp/``` to ```/tmp/my_first_directory``` ".
-- ***8-firstdelete:*** "Deletes the file ```betty``` from the ```/tmp/my_frist_directory``` ".
+- ***8-firstdelete:*** "Deletes the file ```betty``` from ```/tmp/my_frist_directory``` ".
 - ***9-firstdirdeletion:*** "Deletes the directory ```my_fist_directory``` that is in the ```/tmp``` directory. 
 - ***10-back:*** "Changes the working directory to the previous one".
 - ***11-lists:*** "Lists all files (including the hidden files) in the current directory, the parent of the working directory and the ```/boot``` directory, in that order, all in the long format".
