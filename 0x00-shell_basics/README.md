@@ -19,3 +19,5 @@ This directory contains some executable scripts that performs different function
 - ***100-lets_move:*** "Moves all files beginning with an uppercase letter to the ```/tmp/u``` directory".
 - ***101-clean_emacs:*** "Deletes all files in the current working directory that ends with character ```~``` ".
 - ***102-tree:*** "Creates the directories ```welcome/``` , ```welcome/to/``` and ```welcome/to/school``` in the current directory". 
+- ***103-commas:*** "Lists all the files and directories of the current working directory, separated by (```,```) ".
+- ***school.mgc:*** "Creates a magic file ```school.mgc``` that can be used with the command ```file``` to detect ```School``` data files".
