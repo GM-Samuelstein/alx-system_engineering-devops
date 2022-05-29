@@ -8,3 +8,5 @@ This directory contains some executable scripts that performs different function
 - ***5-listfilesdigitonly:*** "Displays current directory's content, including hidden files (files starting with ```.```), in a long format, with user and group IDs displayed numerically".
 - ***6-firstdirectory:*** "Creates a directory named ```my_first_directory``` in the ```/tmp/``` directory".
 - ***7-movethatfile:*** "Moves the file ```betty``` from ```/tmp``` to ```/tmp/my_first_directory``` ".
+- ***8-firstdelete:*** "Deletes the file ```betty``` from the ```/tmp/my_frist_directory``` ".
+- 
