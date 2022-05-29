@@ -5,10 +5,10 @@ This directory contains some executable scripts that perform different basic she
 - ***1-listit:*** "Displays the contents list of the current working directory".
 - ***2-bring_me_home:*** "Changes the working directory to the user's home directory".
 - ***3-listfiles:*** "Displays current directory's contents in a long format".
-- ***4-listmorefiles:*** "Displays current directory's content, including hidden files (files starting with ```.```), in a long format". 
-- ***5-listfilesdigitonly:*** "Displays current directory's content, including hidden files (files starting with ```.```), in a long format, with user and group IDs displayed numerically".
+- ***4-listmorefiles:*** "Displays current directory's contents, including hidden files (files starting with ```.```), in a long format". 
+- ***5-listfilesdigitonly:*** "Displays current directory's contents, including hidden files (files starting with ```.```), in a long format, with user and group IDs displayed numerically".
 - ***6-firstdirectory:*** "Creates a directory named ```my_first_directory``` in the ```/tmp/``` directory".
-- ***7-movethatfile:*** "Moves the file ```betty``` from ```/tmp``` to ```/tmp/my_first_directory``` ".
+- ***7-movethatfile:*** "Moves the file ```betty``` from ```/tmp/``` to ```/tmp/my_first_directory``` ".
 - ***8-firstdelete:*** "Deletes the file ```betty``` from the ```/tmp/my_frist_directory``` ".
 - ***9-firstdirdeletion:*** "Deletes the directory ```my_fist_directory``` that is in the ```/tmp``` directory. 
 - ***10-back:*** "Changes the working directory to the previous one".
