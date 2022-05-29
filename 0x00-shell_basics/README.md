@@ -13,4 +13,9 @@ This directory contains some executable scripts that performs different function
 - ***9-firstdirdeletion:*** "Deletes the directory ```my_fist_directory``` that is in the ```/tmp``` directory. 
 - ***10-back:*** "Changes the working directory to the previous one".
 - ***11-lists:*** "Lists all files (including the hidden files) in the current directory, the parent of the working directory and the ```/boot``` directory, in that order, all in the long format".
-- 
+- ***12-file_type:*** "Prints the type of a file named ```iamafile``` that is in the ```/tmp``` directory".
+- ***13-symbolic_link:*** "Creates a symbolic link named ```__ls__``` to ```/bin/ls``` in the current working directory".
+- ***14-copy_html:*** "Copies all HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory".
+- ***100-lets_move:*** "Moves all files beginning with an uppercase letter to the ```/tmp/u``` directory".
+- ***101-clean_emacs:*** "Deletes all files in the current working directory that ends with character ```~``` ".
+- ***102-tree:*** "Creates the directories ```welcome/``` , ```welcome/to/``` and ```welcome/to/school``` in the current directory". 
