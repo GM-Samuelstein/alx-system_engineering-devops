@@ -3,3 +3,4 @@
 This directory contains some executable scripts that perform different basic shell functions.
 ## 0X01: SHELL PERMISSIONS.
 ## 0x02: SHELL REDIRECTIONS.
+## 0x03: SHELL VARIABLES EXPANSIONS
