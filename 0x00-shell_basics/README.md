@@ -1,5 +1,5 @@
 <h1 align="center" >0x00:  SHELL BASICS</h1>
-This directory contains some executable scripts that perform different basic shell functions. Below, you will find a short description of what each script is doing.
+This directory contains some executable scripts that perform different basic shell functions. There are a total of 20 scripts written here, and below, you will find a short description of what each script is doing.
 
 | Script Name | Description|
 | --- | --- |
