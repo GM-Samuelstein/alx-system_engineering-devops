@@ -3,7 +3,7 @@
 
 <details><summary><h2> 0x00: SHELL BASICS.</h2></summary>
   <p>
-   This directory contains some executable scripts that perform different basic shell functions. 
+   This directory contains some executable scripts that perform different basic shell functions. It has a total of 20 scripts. 
   </p>
 </details>
 
