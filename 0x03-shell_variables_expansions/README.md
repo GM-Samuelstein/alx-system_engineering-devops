@@ -1,4 +1,4 @@
- # <p align="center" >0x03: SHELL VARIABLES EXPANSIONS</p> 
+<h1 align="center" >0x03: SHELL VARIABLES EXPANSIONS</h1> 
 Below, you will find a short description of what each script does. 
 
 | **Script Name** | *Description* |
