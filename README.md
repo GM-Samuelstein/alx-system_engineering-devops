@@ -10,7 +10,7 @@
 
 <details><summary><h2>0X01: SHELL PERMISSIONS.</h2></summary>
   <p>
-    Details coming soon. 
+    Details coming soon... 
   </p>
 </details>
 
