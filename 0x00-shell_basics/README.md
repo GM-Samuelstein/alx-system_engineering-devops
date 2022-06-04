@@ -1,6 +1,7 @@
 <h1 align="center" >0x00:  SHELL BASICS</h1>
 This directory contains some executable scripts that perform different basic shell functions. There are a total of 20 scripts written here, and below, you will find a short description of what each script is doing.
-
+<div>
+  
 | Script Name | Description|
 | --- | --- |
 | **0-current_working_directory** | *Prints the absolute path name of the current working directory.* |
@@ -22,6 +23,7 @@ This directory contains some executable scripts that perform different basic she
 | **101-clean_emacs** | *Deletes all files in the current working directory that ends with character ```~```.* |
 | **102-tree** | *Creates the directories ```welcome/``` , ```welcome/to/``` and ```welcome/to/school``` in the current directory.* |
 | **103-commas** | *Lists all the files and directories of the current working directory, separated by (```,```).* |
-| **school.mgc** | *Creates a magic file ```school.mgc``` that can be used with the command ```file``` to detect ```School``` data files.* [^1]|
+| **school.mgc** | *Creates a magic file ```school.mgc``` that can be used with the command ```file``` to detect ```School``` data files.* [^1] [^2]
 
-[^1]: Additionally, you have to compile the magic file and also render it usable. You do that by typing the following on the command line: ```file -C -m school.mgc``` and ```file --mime-type -m school.mgc```.
+[^1]: To compile the magic file type the following on the command line:```file -C -m school.mgc``` 
+[^2]: To make the magic file useable, type the following on the command line: ```file --mime-type -m school.mgc```
