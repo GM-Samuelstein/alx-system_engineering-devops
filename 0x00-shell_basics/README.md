@@ -25,5 +25,5 @@ This directory contains some executable scripts that perform different basic she
 | **103-commas** | *Lists all the files and directories of the current working directory, separated by (```,```).* |
 | **school.mgc** | *Creates a magic file ```school.mgc``` that can be used with the command ```file``` to detect ```School``` data files.* [^1] [^2]
 
-[^1]: To compile the magic file type the following on the command line:```file -C -m school.mgc``` 
+[^1]: To compile the magic file, type the following on the command line:```file -C -m school.mgc``` 
 [^2]: To make the magic file useable, type the following on the command line: ```file --mime-type -m school.mgc```
