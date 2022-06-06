@@ -15,14 +15,14 @@ This directory contains some executable scripts that perform different basic she
 | **8-firstdelete** | *Deletes the file ```betty``` from ```/tmp/my_frist_directory```.* |
 | **9-firstdirdeletion** | *Deletes the directory ```my_fist_directory``` that is in the ```/tmp``` directory.* | 
 | **10-back** | *Changes the working directory to the previous one.* |
-| **11-lists** | *Lists all files (including the hidden files) in the current directory, the parent of the working directory and the ```/boot``` directory, in that order, all in the long format.* |
+| **11-lists** | *Lists all files (including the hidden files) in the current directory, the parent of the current directory and the ```/boot``` directory, in that order, all in the long format.* |
 | **12-file_type** | *Prints the type of a file named ```iamafile``` that is in the ```/tmp``` directory.* |
 | **13-symbolic_link** | *Creates a symbolic link named ```__ls__``` to ```/bin/ls``` in the current working directory.* |
 | **14-copy_html** | *Copies all HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.* |
 | **100-lets_move** | *Moves all files beginning with an uppercase letter to the ```/tmp/u``` directory.* |
-| **101-clean_emacs** | *Deletes all files in the current working directory that ends with character ```~```.* |
+| **101-clean_emacs** | *Deletes all files in the current working directory that ends with the character ```~```.* |
 | **102-tree** | *Creates the directories ```welcome/``` , ```welcome/to/``` and ```welcome/to/school``` in the current directory.* |
-| **103-commas** | *Lists all the files and directories of the current working directory, separated by (```,```).* |
+| **103-commas** | *Lists all the files and directories of the current working directory, separated by (```,```), directory names end with a slash (```/```).* |
 | **school.mgc** | *Creates a magic file ```school.mgc``` that can be used with the command ```file``` to detect ```School``` data files.* [^1] [^2]
 
 [^1]: To compile the magic file, type the following on the command line:```file -C -m school.mgc``` 
