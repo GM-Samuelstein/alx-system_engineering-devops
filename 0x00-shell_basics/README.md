@@ -1,6 +1,5 @@
 <h1 align="center" >0x00:  SHELL BASICS</h1>
-This directory contains some executable scripts that perform different basic shell functions. There are a total of 20 scripts written here, and below, you will find a short description of what each script is doing.
-<div>
+This directory contains some executable scripts that perform different basic shell functions. Below, you will find a short description of what each script is doing.
   
 | Script Name | Description|
 | --- | --- |
@@ -22,8 +21,8 @@ This directory contains some executable scripts that perform different basic she
 | [**100-lets_move**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x00-shell_basics/100-lets_move) | *Moves all files beginning with an uppercase letter to the ```/tmp/u``` directory.* |
 | [**101-clean_emacs**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x00-shell_basics/101-clean_emacs) | *Deletes all files in the current working directory that ends with the character ```~```.* |
 | [**102-tree**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x00-shell_basics/102-tree) | *Creates the directories ```welcome/``` , ```welcome/to/``` and ```welcome/to/school``` in the current directory.* |
-| [**103-commas**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x00-shell_basics/103-commas) | *Lists all the files and directories of the current working directory, separated by (```,```), directory names end with a slash (```/```).* |
-| [**school.mgc**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x00-shell_basics/school.mgc)[^1] | *Creates a magic file ```school.mgc``` that can be used with the command ```file``` to detect ```School``` data files.* [^2]
+| [**103-commas**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x00-shell_basics/103-commas) | *Lists all the files and directories of the current working directory, separated by (```,```), and directory names end with a slash (```/```).* |
+| [**school.mgc**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x00-shell_basics/school.mgc)[^1] | *```school.mgc```is a magic file  that can be used with the command ```file``` to detect ```School``` data files.* [^2]
 
 [^1]: File content reads:```line 1-[0 string SCHOOL School data]```, ```line 2-[!:mime School]```. 
 [^2]: To compile the magic file, type the following on the command line:```file -C -m school.mgc``` 
