@@ -1,0 +1,23 @@
+<h1 align="center">0x01: SHELL PERMISSIONS</h1>
+This directory contains various scripts that can be used to perform a number of "permissions" commands in shell. Below, you will find a short description of what each script is doing. 
+
+|Script Name|Description|
+|---|---|
+|[**0-iam_betty**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/0-iam_betty)|*Switches the current user to the user ```betty```.*|
+|[**1-who_am_i**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/1-who_am_i)|*Prints the effective username of the current user.*|
+|[**2-groups**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/2-groups)|*Prints all the groups the current user is part of.*|
+|[**3-new_owner**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/3-new_owner)|*Changes the owner of the file ```hello``` to the user ```betty```.*|
+|[**4-empty**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/4-empty)|*Creates an empty file named ```hello```.*|
+|[**5-execute**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/5-execute)|*Adds execution permission to the owner of the file ```hello```, in the working directory.*|
+|[**6-multiple_permissions**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/6-multiple_permissions)|*Adds execution permission to the owner and the group owner, and read permission to other users, to the file ```hello```, in the working directory.*|
+|[**7-everybody**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/7-everybody)|*Adds execution permission to the owner, the group owner and the other users, to the file ```hello```, in the working directory.*|
+|[**8-James_Bond**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/8-James_Bond)|<em>Sets the following permission to the file ```hello```.<br> <ul><li>Owner: no permission at all.</li> <li>Group: no permission at all.</li> <li>Other users: all the permissions.</li></ul><em>|
+|[**9-John_Doe**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/9-John_Doe)|<em>Sets the mode of the file ```hello``` to:<br>```-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello ``` <em>|
+|[**10-mirror_permissions**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/10-mirror_permissions)|*Sets the mode of the file `hello` to the same mode as the file `olleh`.*|
+|[**11-directories_permissions**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/11-directories_permissions)|*Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files are not be changed.*|
+|[**12-directory_permissions**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/12-directory_permissions)|*Creates a directory called `my_dir` with permissions 751 in the working directory.*|
+|[**13-change_group**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/13-change_group)|*Changes the group owner to `school` for the file `hello`, in the working directory.*|
+|[**100-change_owner_and_group**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/100-change_owner_and_group)|*Changes the owner to `vincent` and the group owner to `staff`, for all the files and directories in the working directory.*|
+|[**101-symbolic_link_permissions**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/101-symbolic_link_permissions)|*Changes the owner and the group owner of `_hello` to `vincent` and `staff` respectively. The file `_hello` is a symbolic link, and is in the working directory.*|
+|[**102-if_only**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/102-if_only)|*Changes the owner of the file `hello` to `betty`,in the working directory, only if it is owned by the user `guillaume`.*|
+|[**103-Star_Wars**](https://github.com/GM-Samuelstein/alx-system_engineering-devops/blob/master/0x01-shell_permissions/103-Star_Wars)|*Plays the StarWars IV episode in the terminal.*|
