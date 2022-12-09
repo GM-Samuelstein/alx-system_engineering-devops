@@ -1,1 +1,1 @@
-<h1 align="center"><b>0x0A. CONFIGURATION MANAGEMENT</b><h1>
+<h1 align="center"><b>0x0A. CONFIGURATION MANAGEMENT</b></h1>
